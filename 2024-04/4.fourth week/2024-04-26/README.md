@@ -25,8 +25,14 @@ apple
 
 -----
 進階：
-1.random walk ttl
+1.random walk (有目的節點)ttl ，用幾何
+random walk (沒有目標、幾個hops)ttl
+
+考慮energy，送幾次代表energy、每個node紀錄送次數、(maybe機率*noise
+
 2.如果attacker聽不到封包，往回走
+
 3.fake packet
 4.送幾次代表energy、每個node紀錄送次數、機率*noise
-5.energy用完，需更新 neighbor & to_hop
+5.抓到實驗繼續，energy用完，(需更新 neighbor & to_hop)
+6.source node 實驗放大固定
