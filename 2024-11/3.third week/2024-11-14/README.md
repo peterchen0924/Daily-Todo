@@ -10,15 +10,15 @@
 回庭葳
 
 ----
-至晴、映余
-
-gpt爆?
+至晴、
 
 ---
+attacker isFakeSrc 檢查好像還沒寫
 
-attacker isFakeSrc 檢查是不是還沒寫
+methodCode ours
+-context 接setting
+-source 第一個如何發封包
+-relay node
 
-
-
-
-
+--
+~~叉路:記頻率，優先走沒走過的節點，越少visited~~
