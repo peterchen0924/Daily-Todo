@@ -12,6 +12,7 @@ myQ:
 toTalk:
 1.baseNode distanceToNodeById (先不管，可整理)
 2.src 選點機制
+判斷方位
 delta w、delta h 為參數
 
 參數選一個，如2個傳輸範圍，
