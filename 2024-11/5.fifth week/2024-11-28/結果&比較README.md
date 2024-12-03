@@ -1,4 +1,11 @@
+1.論文
+2.跑一跑
+baseNode distanceToNodeById (先不管，可整理)
 
+3.老師 奇怪問題
+--------------
+奕余?
+------
 hop count來決定
 近 往外選
 遠 往內選
@@ -6,9 +13,9 @@ hop count來決定
 紀錄:
 -實驗參數:
     1.方法
-    2.圖形大小
+    2.圖長寬大小
     3.實驗最長時間maxTime
-    4.src、sink多少loc
+    4.src、sink位置
     srcPktGenPeriod = 50
 
 -結果
@@ -36,3 +43,6 @@ hop count來決定
 
 -----
 基礎版SPF可算進比較對象!
+----
+12月椅子
+
