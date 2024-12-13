@@ -1,15 +1,9 @@
-1212
+設計實驗完與老師討論
+
+SRR怪?
+
+todo:my 加入random 範圍選
+
 1.零食區
-選個飲料? 麥香?美祿?蜜茶?
+~~選個飲料? 蜜茶~~
 
-2.微波爐?
-3.雨衣架?
-4.理線帶?
-
-業務費:
-1.椅子 蝦皮
-2.推車 pchome https://24h.pchome.com.tw/prod/DQBB3O-A900HO9LX
-3.延長線 
-群加 https://shopee.tw/%E7%BE%A4%E5%8A%A0-PowerSync-%E5%9B%9B%E9%96%8B%E5%9B%9B%E6%8F%92-%E5%85%AD%E9%96%8B%E5%85%AD%E6%8F%92-%E7%8D%A8%E7%AB%8B%E9%96%8B%E9%97%9C%E9%98%B2%E9%9B%B7%E6%93%8A%E6%8A%97%E6%90%96%E6%93%BA-%E5%BB%B6%E9%95%B7%E7%B7%9A-%E9%BB%91%E8%89%B2-%E7%99%BD%E8%89%B2-1.8m-2.7m-4.5m-i.10966219.2124013610?sp_atk=583c1cf6-fec3-4137-b386-f298a4fd4f9b&xptdk=583c1cf6-fec3-4137-b386-f298a4fd4f9b
-
-PHILIPS https://shopee.tw/%E2%9C%A8%E7%8F%BE%E8%B2%A8%E2%9C%A8-PHILIPS-%E9%9B%BB%E6%BA%90%E5%BB%B6%E9%95%B7%E7%B7%9A1.8%E7%B1%B3-1%E9%96%8B6%E6%8F%92-4%E9%96%8B4%E6%8F%92-6%E9%96%8B6%E6%8F%92-%E9%BB%91%E8%89%B2-%E7%99%BD%E8%89%B2-%E6%96%B0%E5%AE%89%E8%A6%8F-i.13051868.27202502127?sp_atk=673155c3-c090-4831-838f-607cc23f5197&xptdk=673155c3-c090-4831-838f-607cc23f5197
