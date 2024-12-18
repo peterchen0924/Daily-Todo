@@ -31,18 +31,23 @@ hop count來決定
 
 
 比較
-1.latency=到達的hop_count
-2.Transmission_delay = sendingTime - recvTime
-3.Intercept rate: attacker收到多少不同的封包/src發多少封包
+-1.抓到的時間 = lifetime，simulation done
+-2.Capture ratio 被攻擊者抓到的次數 / 實驗次數
+-3.latency = 到達的hop_count (sink接到source封包的時間)
+4.Transmission_delay = sendingTime - recvTime (可放可不放，可由3來推)
+-5.Intercept rate: attacker收到多少不同的封包/src發多少封包
+-6.energy使用多少 = nPktSent*engPerPktSent + nPktRecv*engPerPktRecv
+
+
 
 可做多輪再平均
 最後算:
     latency，最後要將多次平均*
-    energy使用多少=nPktSent*engPerPktSent+nPktRecv*engPerPktRecv*
+    energy使用多少 = nPktSent*engPerPktSent + nPktRecv*engPerPktRecv
     沒抓到可算捕獲率*
 
 -----
 基礎版SPF可算進比較對象!
 ----
-12月椅子
+~~12月椅子~~
 
