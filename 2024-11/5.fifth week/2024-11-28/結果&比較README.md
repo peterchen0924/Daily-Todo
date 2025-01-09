@@ -2,9 +2,7 @@
 2.跑一跑
 baseNode distanceToNodeById (先不管，可整理)
 
-3.老師 奇怪問題
---------------
-奕余?
+
 ------
 hop count來決定
 近 往外選
