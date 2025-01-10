@@ -13,4 +13,5 @@ algorithm 改成 input、output
 
 由b輔助a 我猜...
 
+400 400
 600 600

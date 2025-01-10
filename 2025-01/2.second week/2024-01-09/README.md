@@ -2,6 +2,7 @@
     2.ppt 列出大綱順序?
     3.整理圖
 
+    Attacker_patientWait_maxRetry = 5 下次改3
 
     random皆各為幾步???
         PW:(short:2,3,…,0.5×Δss ; long:2+Δss,…,1.5×Δss )
