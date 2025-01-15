@@ -4,11 +4,14 @@ algorithm 改成 input、output
 
 PPT
 
-數據-群組柱狀圖?
-
 論文
 
-
+ask:
+1.數據-群組柱狀圖?
+2.algorithm 改成 input、output
+3.保證路徑? 保證路徑多於率在?
+4.special relayNode
+5.方法簡稱?
 
 
 改標題&單位
