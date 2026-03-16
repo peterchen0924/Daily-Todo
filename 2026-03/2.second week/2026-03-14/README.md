@@ -6,7 +6,6 @@ static、volatile 觀念
 履歷修改
 PPT 精簡文字
 BIOS 開機流程（POST、SEC→PEI→DXE→BDS）
-SEC 暫用一塊cache來開啟dram PEI 初始化dram DXE 啟動驅動程式 BDS 選擇從哪裡開機
 
 3/13
 
