@@ -1,0 +1,2 @@
+notion、evernote、obsdian
+leetcode
